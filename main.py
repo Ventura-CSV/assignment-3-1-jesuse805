@@ -8,6 +8,12 @@ def main():
     """
     ########################################
     Code Your Program here
+    """
+    print(f'{number1}')
+    print(f'{number2}')
+    print(f'{number3}')
+    
+    """"
     ########################################
     """
 
