@@ -9,10 +9,15 @@ def main():
     ########################################
     Code Your Program here
     """
-    # Prints out statements, number1, number2, number3
-    print(f'{number1}')
-    print(f'{number2}')
-    print(f'{number3}')
+    print(f'{number1} {number2} {number3}')
+    
+    if number1 < number2 and number1 < number3:
+        min_value = number1
+        
+    elif number2 < number3:
+        min_value = number2
+    else:
+        min_value = number3
     
     print(f'smallest number : {min_value}')
     """"
