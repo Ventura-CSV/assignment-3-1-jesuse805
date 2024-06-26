@@ -9,10 +9,12 @@ def main():
     ########################################
     Code Your Program here
     """
+    # Prints out statements, number1, number2, number3
     print(f'{number1}')
     print(f'{number2}')
     print(f'{number3}')
     
+    print(f'smallest number : {min_value}')
     """"
     ########################################
     """
