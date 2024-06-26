@@ -24,7 +24,7 @@ def main():
     else:
         min_value = number3
     
-    # print 'smallest number statement' and the smallest number produced by the random generator
+    # print 'smallest number' statement and the smallest number produced by the random generator
     print(f'smallest number : {min_value}')
     """"
     ########################################
